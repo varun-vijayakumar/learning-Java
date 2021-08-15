@@ -11,6 +11,7 @@ public class AbstractClassExample {
     }
 
 }
+
 abstract class Dog{
     String type;
     Dog() {
